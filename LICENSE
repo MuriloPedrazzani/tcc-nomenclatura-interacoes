@@ -1,0 +1,42 @@
+Este repositorio combina obras sob licencas distintas. Leia antes de reusar.
+
+---------------------------------------------------------------------------
+CODIGO  (src/, legado/)                                    Licenca MIT
+---------------------------------------------------------------------------
+Copyright (c) 2026 Crystofer Samuel, Murilo Pedrazzani, Ricardo Makino,
+Ricardo Vianna
+
+E concedida permissao, gratuita, a qualquer pessoa que obtenha uma copia
+deste software e dos arquivos de documentacao associados, para negociar
+com o software sem restricao, incluindo os direitos de usar, copiar,
+modificar, fundir, publicar, distribuir, sublicenciar e vender copias,
+sujeito as seguintes condicoes:
+
+O aviso de copyright acima e este aviso de permissao devem ser incluidos
+em todas as copias ou partes substanciais do software.
+
+O SOFTWARE E FORNECIDO "COMO ESTA", SEM GARANTIA DE QUALQUER TIPO.
+
+---------------------------------------------------------------------------
+DADOS  (data/, outputs/)                                  SOB VERIFICACAO
+---------------------------------------------------------------------------
+Este arquivo NAO concede, por si, licenca aos dados de terceiros nem aos
+artefatos que incorporam conteudo de DDInter ou DrugBank. O alcance das
+licencas/termos sobre os derivados e o formato de deposito aguardam decisao
+institucional. Ate la, esses artefatos nao devem ser redistribuidos. Consulte
+data/README.md e docs/legal/avaliacao_licencas_v2.md.
+
+---------------------------------------------------------------------------
+TEXTO DO ARTIGO  (paper/)                                  CC BY-NC-ND 4.0
+---------------------------------------------------------------------------
+Ate a publicacao em veiculo revisado por pares, o texto e disponibilizado
+sob Atribuicao-NaoComercial-SemDerivacoes 4.0.
+
+---------------------------------------------------------------------------
+FONTES DE TERCEIROS
+---------------------------------------------------------------------------
+DrugBank               termos/licenca da aquisicao devem ser confirmados
+DDInter 2.0            termos oficiais declaram CC BY-NC-SA 4.0
+RENAME 2024            obra do Ministerio da Saude do Brasil
+
+Nenhuma linha acima substitui a decisao institucional por artefato.

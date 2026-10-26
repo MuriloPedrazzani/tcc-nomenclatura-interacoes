@@ -1,0 +1,30 @@
+# Ambiente e arquivos temporários
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
+
+# Configuração local e credenciais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+
+# Entradas e saídas empíricas não distribuídas nesta entrega
+data/
+outputs/
+cache/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.log
+tmp/
+temp/
