@@ -16,6 +16,10 @@ As três frentes são:
 
 “Grave” designa uma categoria da referência DDInter. A denominação internacional é operacional: a classificação estrita como INN não se estende automaticamente a todos os nomes. O estudo descreve um benchmark finito; não estabelece segurança clínica, superioridade populacional ou confirmação prospectiva independente.
 
+## Resultados em imagens
+
+Veja a [galeria de resultados](resultados/README.md), com **quatro gráficos e sete tabelas em PNG** da avaliação congelada: disponibilidade, nomenclatura, política seletiva e transferência entre famílias. As legendas identificam fontes, populações e denominadores. A adição apresenta resultados existentes, sem novas análises.
+
 ## Organização
 
 ```text
@@ -23,6 +27,7 @@ src/
   dados/       # Admissão documental, metadados, características, split e parsing
   analise/     # Preparação, calibração, contratos e três avaliações
 tests/         # Testes com exemplos construídos em código
+resultados/    # Galeria de gráficos e tabelas dos resultados congelados
 requirements.txt
 pytest.ini
 LICENSE
